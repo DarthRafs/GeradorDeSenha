@@ -1,0 +1,6 @@
+{
+    "dotnet.defaultSolution": "GeradorDeSenha.sln",
+    "workbench.editor.autoLockGroups": {
+        "workbench.editors.gettingStartedInput": true
+    }
+}
